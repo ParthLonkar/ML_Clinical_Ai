@@ -1,0 +1,1001 @@
+dialogue,label
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: immediate care for wound management.",urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: Migraine with repeated vomiting right now. Doctor: immediate assessment recommended.,urgent
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care today.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit same-day clinic.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: immediate care for wound management.",urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit immediate clinic.,urgent
+Patient: Painful swollen ankle after fall. Doctor: prompt x-ray and exam needed.,urgent
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: strong allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: Migraine with repeated vomiting right now. Doctor: immediate assessment recommended.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit same-day clinic.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: regular physiotherapy referral.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: serious allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: intense allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: low-grade acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.,emergency
+Patient: New seizure episode and headache. Doctor: ER referral right away.,emergency
+Patient: low-grade sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: New seizure episode and headache. Doctor: acute referral right away.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to acute now.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: serious allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: light acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit same-day clinic.,urgent
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: light acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit same-day clinic.,urgent
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Migraine with repeated vomiting right now. Doctor: immediate assessment recommended.,urgent
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit immediate clinic.,urgent
+Patient: Migraine with repeated vomiting today. Doctor: same-day assessment recommended.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: light acne concerns and skin care advice. Doctor: standard dermatology appointment.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care right now.,urgent
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: New seizure episode and headache. Doctor: ER referral right away.,emergency
+Patient: low-grade sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: Nutrition counseling request for weight management. Doctor: scheduled appointment.,routine
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care today.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: Migraine with repeated vomiting this morning. Doctor: immediate assessment recommended.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs immediate same-day review.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs immediate same-day review.,urgent
+Patient: intense allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Chronic back pain unchanged for months. Doctor: regular physiotherapy referral.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit same-day clinic.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care this morning.,urgent
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: serious allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: intense allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care right now.,urgent
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: low-grade acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: Migraine with repeated vomiting right now. Doctor: prompt assessment recommended.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs immediate same-day review.,urgent
+Patient: low-grade acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+Patient: Migraine with repeated vomiting today. Doctor: prompt assessment recommended.,urgent
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit immediate clinic.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Painful swollen ankle after fall. Doctor: prompt x-ray and exam needed.,urgent
+Patient: low-grade sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: light acne concerns and skin care advice. Doctor: standard dermatology appointment.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit same-day clinic.,urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: scheduled check-up.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care today.,urgent
+Patient: low-grade acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: minor acne concerns and skin care advice. Doctor: standard dermatology appointment.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Migraine with repeated vomiting this morning. Doctor: prompt assessment recommended.,urgent
+Patient: low-grade sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: New seizure episode and headache. Doctor: acute referral right away.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Migraine with repeated vomiting today. Doctor: immediate assessment recommended.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: My child has ear pain and fever tonight. Doctor: Needs immediate same-day review.,urgent
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: minor sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care right now.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care today.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: Migraine with repeated vomiting right now. Doctor: immediate assessment recommended.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care this morning.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care this morning.,urgent
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: New seizure episode and headache. Doctor: acute referral right away.,emergency
+Patient: New seizure episode and headache. Doctor: ER referral right away.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: serious allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.,emergency
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: intense allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: serious allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: New seizure episode and headache. Doctor: ER referral right away.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit same-day clinic.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs immediate same-day review.,urgent
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit same-day clinic.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Migraine with repeated vomiting this morning. Doctor: prompt assessment recommended.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule standard clinic visit.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: serious allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Migraine with repeated vomiting today. Doctor: prompt assessment recommended.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: immediate care for wound management.",urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: minor acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: light acne concerns and skin care advice. Doctor: standard dermatology appointment.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Migraine with repeated vomiting today. Doctor: prompt assessment recommended.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit prompt clinic.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to acute now.,emergency
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Chronic back pain unchanged for months. Doctor: regular physiotherapy referral.,routine
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Migraine with repeated vomiting today. Doctor: prompt assessment recommended.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Nutrition counseling request for weight management. Doctor: scheduled appointment.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: light sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit prompt clinic.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: Migraine with repeated vomiting right now. Doctor: prompt assessment recommended.,urgent
+Patient: Nutrition counseling request for weight management. Doctor: scheduled appointment.,routine
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to acute now.,emergency
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: regular physiotherapy referral.,routine
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit same-day clinic.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: Migraine with repeated vomiting today. Doctor: immediate assessment recommended.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: intense allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: light sore throat for two days. Doctor: standard appointment this week.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule standard clinic visit.,routine
+Patient: Chronic back pain unchanged for months. Doctor: regular physiotherapy referral.,routine
+Patient: low-grade acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: intense allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit prompt clinic.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: minor sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: New seizure episode and headache. Doctor: ER referral right away.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: serious allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: serious allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to acute now.,emergency
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care this morning.,urgent
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.,emergency
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit immediate clinic.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit immediate clinic.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs immediate same-day review.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Migraine with repeated vomiting right now. Doctor: same-day assessment recommended.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Painful swollen ankle after fall. Doctor: prompt x-ray and exam needed.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: minor acne concerns and skin care advice. Doctor: standard dermatology appointment.,routine
+Patient: minor sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: low-grade sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day same-day check.,urgent
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: strong allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: Chronic back pain unchanged for months. Doctor: regular physiotherapy referral.,routine
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to acute now.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Migraine with repeated vomiting this morning. Doctor: immediate assessment recommended.,urgent
+Patient: minor sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: scheduled check-up.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care right now.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: minor acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: light sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: Nutrition counseling request for weight management. Doctor: scheduled appointment.,routine
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: low-grade sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: light acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care right now.,urgent
+Patient: low-grade sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: low-grade acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: strong allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: light sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: minor sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: low-grade acne concerns and skin care advice. Doctor: standard dermatology appointment.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit same-day clinic.,urgent
+Patient: Migraine with repeated vomiting this morning. Doctor: immediate assessment recommended.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: immediate care for wound management.",urgent
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Nutrition counseling request for weight management. Doctor: scheduled appointment.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+Patient: minor sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: strong allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: light sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule standard clinic visit.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: Migraine with repeated vomiting this morning. Doctor: prompt assessment recommended.,urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care right now.,urgent
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit same-day clinic.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: light sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Migraine with repeated vomiting this morning. Doctor: same-day assessment recommended.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: strong allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: light acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit same-day clinic.,urgent
+Patient: minor acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: minor sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: low-grade acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Migraine with repeated vomiting right now. Doctor: prompt assessment recommended.,urgent
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to acute now.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: strong allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Migraine with repeated vomiting this morning. Doctor: prompt assessment recommended.,urgent
+Patient: minor sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: serious allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: serious allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: minor acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule standard clinic visit.,routine
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day same-day check.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: New seizure episode and headache. Doctor: acute referral right away.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: Migraine with repeated vomiting this morning. Doctor: same-day assessment recommended.,urgent
+Patient: Migraine with repeated vomiting this morning. Doctor: prompt assessment recommended.,urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care this morning.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care today.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit immediate clinic.,urgent
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Nutrition counseling request for weight management. Doctor: scheduled appointment.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: serious allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: scheduled appointment.,routine
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: scheduled check-up.,routine
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day same-day check.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: immediate care for wound management.",urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: Migraine with repeated vomiting right now. Doctor: prompt assessment recommended.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: New seizure episode and headache. Doctor: ER referral right away.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care this morning.,urgent
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: minor sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: strong allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day same-day check.,urgent
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: Painful swollen ankle after fall. Doctor: prompt x-ray and exam needed.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit immediate clinic.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit same-day clinic.,urgent
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Migraine with repeated vomiting right now. Doctor: prompt assessment recommended.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: scheduled check-up.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care right now.,urgent
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: intense allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: strong allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: light acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care this morning.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: low-grade sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care this morning.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: minor acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Follow-up for stable thyroid levels. Doctor: standard consultation next week.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.,emergency
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit same-day clinic.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care this morning.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: minor sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: minor acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to acute now.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: acute care immediately.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: standard follow-up is fine.,routine
+Patient: strong allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: low-grade acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit ER now.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care this morning.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care this morning.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: low-grade acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day same-day check.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit prompt clinic.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: Painful swollen ankle after fall. Doctor: prompt x-ray and exam needed.,urgent
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit prompt clinic.,urgent
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care right now.,urgent
+Patient: low-grade acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care right now.,urgent
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: strong allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care this morning.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit prompt clinic.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: scheduled check-up.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: low-grade acne concerns and skin care advice. Doctor: regular dermatology appointment.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Painful swollen ankle after fall. Doctor: prompt x-ray and exam needed.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: scheduled check-up.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care right now.,urgent
+Patient: low-grade acne concerns and skin care advice. Doctor: standard dermatology appointment.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to acute now.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: minor sore throat for two days. Doctor: regular appointment this week.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.,emergency
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: I need refill for blood pressure medicine. Doctor: regular follow-up is fine.,routine
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day immediate check.,urgent
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care this morning.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit immediate clinic.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: light sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: Painful swollen ankle after fall. Doctor: prompt x-ray and exam needed.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit immediate clinic.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: New seizure episode and headache. Doctor: acute referral right away.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day same-day check.,urgent
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: light sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: minor sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.,emergency
+Patient: low-grade sore throat for two days. Doctor: regular appointment this week.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: Chronic back pain unchanged for months. Doctor: regular physiotherapy referral.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: minor sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care this morning.,urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: immediate care tonight.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: low-grade acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit immediate clinic.,urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: same-day care for wound management.",urgent
+Patient: serious allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: New seizure episode and headache. Doctor: acute referral right away.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: I need refill for blood pressure medicine. Doctor: scheduled follow-up is fine.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: light acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: minor sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule standard clinic visit.,routine
+Patient: light sore throat for two days. Doctor: scheduled appointment this week.,routine
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: regular consultation next week.,routine
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: same-day care tonight.,urgent
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day prompt check.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Migraine with repeated vomiting right now. Doctor: prompt assessment recommended.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to acute now.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day same-day check.,urgent
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.,emergency
+Patient: Painful swollen ankle after fall. Doctor: immediate x-ray and exam needed.,urgent
+Patient: Persistent chest pressure radiating to arm. Doctor: ER care immediately.,emergency
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: light sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: Eye redness with pain and light sensitivity. Doctor: prompt ophthalmology visit.,urgent
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit prompt clinic.,urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: same-day ophthalmology visit.,urgent
+Patient: New seizure episode and headache. Doctor: ER referral right away.,emergency
+Patient: Asthma inhaler is not helping much this morning. Doctor: Please visit same-day clinic.,urgent
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day same-day check.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule scheduled clinic visit.,routine
+Patient: minor sore throat for two days. Doctor: standard appointment this week.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care today.,urgent
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: serious allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: My child has ear pain and fever tonight. Doctor: Needs immediate same-day review.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care this morning.,urgent
+Patient: Seasonal allergies and sneezing. Doctor: standard outpatient care is enough.,routine
+Patient: Painful swollen ankle after fall. Doctor: prompt x-ray and exam needed.,urgent
+Patient: Eye redness with pain and light sensitivity. Doctor: immediate ophthalmology visit.,urgent
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to emergency now.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: Sleep problems without alarming symptoms. Doctor: regular visit recommended.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate ER care is needed.,emergency
+Patient: Migraine with repeated vomiting this morning. Doctor: immediate assessment recommended.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: light acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: I have strong chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: High fever and stiff neck since morning. Doctor: Go to acute department.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs immediate same-day review.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: standard check-up.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: Seasonal allergies and sneezing. Doctor: regular outpatient care is enough.,routine
+Patient: Seasonal allergies and sneezing. Doctor: scheduled outpatient care is enough.,routine
+Patient: serious allergic reaction with lip swelling. Doctor: This is an ER.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Annual diabetes review with no new symptoms. Doctor: scheduled check-up.,routine
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: Migraine with repeated vomiting this morning. Doctor: prompt assessment recommended.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule standard clinic visit.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: serious allergic reaction with lip swelling. Doctor: This is an emergency.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs same-day same-day review.,urgent
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: prompt care for wound management.",urgent
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: regular physiotherapy referral.,routine
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Vomiting blood and dizziness. Doctor: Immediate acute care is needed.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: regular check-up.,routine
+Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.,urgent
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Asthma inhaler is not helping much today. Doctor: Please visit same-day clinic.,urgent
+Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.,emergency
+Patient: Asthma inhaler is not helping much right now. Doctor: Please visit prompt clinic.,urgent
+Patient: Painful swollen ankle after fall. Doctor: same-day x-ray and exam needed.,urgent
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to prompt care right now.,urgent
+Patient: Sleep problems without alarming symptoms. Doctor: standard visit recommended.,routine
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Migraine with repeated vomiting today. Doctor: immediate assessment recommended.,urgent
+Patient: Migraine with repeated vomiting today. Doctor: immediate assessment recommended.,urgent
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: I fainted and now feel confused. Doctor: You need acute evaluation.,emergency
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call acute services.,emergency
+Patient: I have burning urination and fever for one day. Doctor: Come to immediate care this morning.,urgent
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.,emergency
+Patient: Chronic back pain unchanged for months. Doctor: standard physiotherapy referral.,routine
+Patient: I have burning urination and fever for one day. Doctor: Come to same-day care this morning.,urgent
+Patient: Nutrition counseling request for weight management. Doctor: regular appointment.,routine
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule regular clinic visit.,routine
+Patient: Chronic back pain unchanged for months. Doctor: scheduled physiotherapy referral.,routine
+Patient: Migraine with repeated vomiting this morning. Doctor: immediate assessment recommended.,urgent
+Patient: I have intense chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: Annual diabetes review with no new symptoms. Doctor: scheduled check-up.,routine
+Patient: Persistent chest pressure radiating to arm. Doctor: emergency care immediately.,emergency
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: immediate care for wound management.",urgent
+Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.,emergency
+Patient: Occasional knee pain when climbing stairs. Doctor: Schedule standard clinic visit.,routine
+Patient: I fainted and now feel confused. Doctor: You need ER evaluation.,emergency
+Patient: Nutrition counseling request for weight management. Doctor: standard appointment.,routine
+Patient: High fever and stiff neck since morning. Doctor: Go to ER department.,emergency
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: Follow-up for stable thyroid levels. Doctor: scheduled consultation next week.,routine
+Patient: I have serious chest pain and trouble breathing. Doctor: Go to ER now.,emergency
+Patient: minor acne concerns and skin care advice. Doctor: scheduled dermatology appointment.,routine
+Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit acute now.,emergency
+Patient: My child has ear pain and fever tonight. Doctor: Needs prompt same-day review.,urgent
+Patient: Breathlessness at rest and blue lips. Doctor: Go to ER now.,emergency
+Patient: New seizure episode and headache. Doctor: emergency referral right away.,emergency
+Patient: strong allergic reaction with lip swelling. Doctor: This is an acute.,emergency
+Patient: Moderate dehydration after diarrhea all day. Doctor: prompt care tonight.,urgent
+Patient: Sleep problems without alarming symptoms. Doctor: scheduled visit recommended.,routine
+Patient: Sudden weakness on one side and slurred speech. Doctor: Call ER services.,emergency

@@ -1,0 +1,31 @@
+dialogue,label
+"Patient: I have severe chest pain and trouble breathing. Doctor: Go to emergency now.",emergency
+"Patient: I fainted and now feel confused. Doctor: You need emergency evaluation.",emergency
+"Patient: Sudden weakness on one side and slurred speech. Doctor: Call emergency services.",emergency
+"Patient: High fever and stiff neck since morning. Doctor: Go to emergency department.",emergency
+"Patient: Vomiting blood and dizziness. Doctor: Immediate emergency care is needed.",emergency
+"Patient: Intense abdominal pain with guarding and sweating. Doctor: Visit emergency now.",emergency
+"Patient: New seizure episode and headache. Doctor: Emergency referral right away.",emergency
+"Patient: Severe allergic reaction with lip swelling. Doctor: This is an emergency.",emergency
+"Patient: Persistent chest pressure radiating to arm. Doctor: Emergency care immediately.",emergency
+"Patient: Breathlessness at rest and blue lips. Doctor: Go to emergency now.",emergency
+"Patient: I have burning urination and fever for one day. Doctor: Come to urgent care today.",urgent
+"Patient: My child has ear pain and fever tonight. Doctor: Needs urgent same-day review.",urgent
+"Patient: Asthma inhaler is not helping much today. Doctor: Please visit urgent clinic.",urgent
+"Patient: Deep cut on hand, still bleeding slowly. Doctor: Urgent care for wound management.",urgent
+"Patient: Migraine with repeated vomiting today. Doctor: Urgent assessment recommended.",urgent
+"Patient: Blood sugar very high with excessive thirst. Doctor: Come urgently for evaluation.",urgent
+"Patient: Worsening cough with fever and chest discomfort. Doctor: Same-day urgent check.",urgent
+"Patient: Painful swollen ankle after fall. Doctor: Urgent x-ray and exam needed.",urgent
+"Patient: Eye redness with pain and light sensitivity. Doctor: Urgent ophthalmology visit.",urgent
+"Patient: Moderate dehydration after diarrhea all day. Doctor: Urgent care tonight.",urgent
+"Patient: Mild sore throat for two days. Doctor: Routine appointment this week.",routine
+"Patient: I need refill for blood pressure medicine. Doctor: Routine follow-up is fine.",routine
+"Patient: Occasional knee pain when climbing stairs. Doctor: Schedule routine clinic visit.",routine
+"Patient: Seasonal allergies and sneezing. Doctor: Routine outpatient care is enough.",routine
+"Patient: Follow-up for stable thyroid levels. Doctor: Routine consultation next week.",routine
+"Patient: Mild acne concerns and skin care advice. Doctor: Routine dermatology appointment.",routine
+"Patient: Chronic back pain unchanged for months. Doctor: Routine physiotherapy referral.",routine
+"Patient: Annual diabetes review with no new symptoms. Doctor: Routine check-up.",routine
+"Patient: Sleep problems without alarming symptoms. Doctor: Routine visit recommended.",routine
+"Patient: Nutrition counseling request for weight management. Doctor: Routine appointment.",routine
